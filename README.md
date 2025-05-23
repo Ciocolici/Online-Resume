@@ -1,4 +1,8 @@
-# Capstone Project: Online Resume
-A project made while doing "[The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)" Udemy Course. It contains my IT-related resume.
+# Online Resume
+This is a simple web-based resume created during the Udemy course "[The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)" as part of my internship at Terrera AG. The project uses only HTML to present my IT-related professional background and skills.
+
+The project was developed independently by me, following general guidelines provided by the course. It was intended to help me practice HTML.
+
+*Note: The resume content reflects my experience and qualifications at the time of creation. This project is for learning purposes only and will not be regularly updated.*
 
 *To see the page you can access this [link](https://ciocolici.github.io/Capstone-Project/).*
