@@ -5,4 +5,4 @@ This is a simple web-based resume created during the Udemy course "[The Complete
 
 *To see the page you can access this [link](https://ciocolici.github.io/Online-Resume/).*
 
-The project was developed independently by me, following general guidelines provided by the course. It was intended to help me practice HTML.
+*The project was developed independently by me, the course merely provided a direction as to what the project should achieve.*
