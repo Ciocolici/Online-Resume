@@ -3,6 +3,6 @@ This is a simple web-based resume created during the Udemy course "[The Complete
 
 *Note: The resume content reflects my experience and qualifications at the time of creation. This project is for learning purposes only and will not be regularly updated.*
 
-*To see the page you can access this [link](https://ciocolici.github.io/Capstone-Project/).*
+*To see the page you can access this [link](https://ciocolici.github.io/Online-Resume/).*
 
 The project was developed independently by me, following general guidelines provided by the course. It was intended to help me practice HTML.
