@@ -3,6 +3,8 @@ This is a simple web-based resume created during the Udemy course "[The Complete
 
 *Note: The resume content reflects my experience and qualifications at the time of creation. This project is for learning purposes only and will not be regularly updated.*
 
+*This online Resume is included in my Personal Site project, also part of the course, its repository can be accessed [here](https://github.com/Ciocolici/Personal-Site).* 
+
 *To see the page you can access this [link](https://ciocolici.github.io/Online-Resume/).*
 
 *The project was developed independently by me, the course merely provided a direction as to what the project should achieve.*
